@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @bb013
-- I'm a CNC and manual machinist who spends most of the time using Gibbscam to generate G-Code for lathes, mill-turn lathes, and 3 and 4-axis mills, then setting those machines up and operating them. I also spin cast babbit bearings, ballance impellers and impeller shaft assemblies, and can surface or cylindrical grind as needed.
+
 ### 👀 I’m interested in ...
 - CAD
 - CAM
