@@ -6,14 +6,11 @@
 - Lean manufacturing
 - Project management and workflow
 ### 🌱 I’m currently learning ...
-- Solidworks
-- Git
-- Github
-- Macros for use in Gibbscam
+- Scientific Computing With Python:
+  - https://www.freecodecamp.org/learn/scientific-computing-with-python/
 ### 💞️ I’d like to work on and or to collaborate on ...
 - Developing an open source project management and time tracking program geared towards manufacturing
-- Teaching the trade of machining and manufacturing
-
+- An open source Computer Added Machining (CAM) software
 
 <!---
 - 📫 How to reach me ...
