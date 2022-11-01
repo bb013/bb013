@@ -1,10 +1,9 @@
-## 👋 Hi, I’m @bb013
+## 👋 Hello, I’m Brett aka @bb013
 
 ### 👀 I’m interested in ...
-- CAD
-- CAM
 - Lean manufacturing
 - Project management and workflow
+- Databases
 ### 🌱 I’m currently learning ...
 - Scientific Computing With Python:
   - https://www.freecodecamp.org/learn/scientific-computing-with-python/
