@@ -3,13 +3,14 @@
 ### 👀 I’m interested in ...
 - Lean manufacturing
 - Project management and workflow
-- Databases
+- Smoking as in BBQ
 ### 🌱 I’m currently learning ...
 - Scientific Computing With Python:
   - https://www.freecodecamp.org/learn/scientific-computing-with-python/
 ### 💞️ I’d like to work on and or to collaborate on ...
-- Developing an open source project management and time tracking program geared towards manufacturing
-- An open source Computer Added Machining (CAM) software
+- Markdown text editor with some of the features of https://obsidian.md/ or https://github.com/marktext/marktext
+  - Those both work well, I just want to make/work on one myself
+- Computer Added Machining (CAM) software
 
 <!---
 - 📫 How to reach me ...
